@@ -1,0 +1,4 @@
+# devops-fullstack-app/.gitignore
+backend/venv/
+node_modules/
+*.log
